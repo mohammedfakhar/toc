@@ -39,15 +39,19 @@ The TOC has created the following working groups to investigate and discuss the 
 | [CI](https://github.com/cncf/wg-ci)         | Camille Fournier | [4th Tue of every month at 8AM PT](https://zoom.us/my/cncfciwg) | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2P3_A3ujWHSxOu1IO_bd7Zi)
 | [Networking](https://github.com/cncf/wg-networking) | Ken Owens        |  [1st and 3rd Tue every month at 9AM PT](https://zoom.us/my/cncfnetworkingwg)                                      | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2M_-K5n67_zTdrPh_PtTKFC)
 | [Serverless](https://github.com/cncf/wg-serverless) | Ken Owens        |  [Thu of every week at 9AM PT](https://zoom.us/my/cncfserverlesswg)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2Ph7YoBIgsZNW_RGJvNlFOt)
-| [Storage](https://github.com/cncf/wg-storage)    | Ben Hindman      |  [2nd and 4th Wed every month at 8AM PT](https://zoom.us/my/cncfstoragewg)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2NoiNaLVZxr-ERc1ifKP7n6)
+| [Storage](https://github.com/cncf/wg-storage)    | Quinton Hoole      |  [2nd and 4th Wed every month at 8AM PT](https://zoom.us/my/cncfstoragewg)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2NoiNaLVZxr-ERc1ifKP7n6)
 
 All meetings are on the public CNCF calendar: https://goo.gl/eyutah
+
+## Meeting Agenda and Minutes
+
+Meeting Minutes are recorded here: https://docs.google.com/document/d/1jpoKT12jf2jTf-2EJSAl4iTdA7Aoj_uiI19qIaECNFc/edit#
 
 ## Meeting Time
 
 The TOC meets on the 1st and 3rd Tuesday of every month at 8AM PT (USA Pacific):
 
-https://zoom.us/j/263858603
+https://zoom.us/j/967220397
 
 Or Telephone:
 
@@ -79,11 +83,11 @@ Here is a link to a World Time Zone Converter here http://www.thetimezoneconvert
 [containerd](https://containerd.io/)|Brian Grant|[3/15/17](https://docs.google.com/presentation/d/1qmGsmARyMhRLwbFWG7LXJSsDHm45nqZ_QtBv5SnQL54/edit?usp=sharing)|[3/29/17](https://www.cncf.io/announcement/2017/03/29/containerd-joins-cloud-native-computing-foundation/)|Incubating
 [rkt](http://rkt.io)|Brian Grant|[3/15/17](https://docs.google.com/presentation/d/1KzA58_Zz30mKKzeLuSvXLh63aIC75KRdAOTw4PJ_10g/edit?usp=sharing)|[3/29/17](https://www.cncf.io/announcement/2017/03/29/cloud-native-computing-foundation-becomes-home-pod-native-container-engine-project-rkt/)|Incubating
 [CNI](https://github.com/containernetworking/cni)|Ken Owens|[5/3/17](https://docs.google.com/presentation/d/1flQXWp1NQg_FdiLQ0MzKw5QACIwR1i939a-FD74imxk/edit#slide=id.g217fd51990_0_140)|[5/23/17](https://www.cncf.io/blog/2017/05/23/cncf-hosts-container-networking-interface-cni/)|Incubating
-[Envoy](https://github.com/envoyproxy/envoy)|Alexis Richardson|[8/15/17](https://goo.gl/iSP394)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-envoy/)|Incubating
+[Envoy](https://github.com/envoyproxy/envoy)|Alexis Richardson|[8/15/17](https://goo.gl/iSP394)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-envoy/)|Graduated
 [Jaeger](https://github.com/jaegertracing/jaeger)|Bryan Cantrill|[8/1/17](https://goo.gl/ehtgts)|[9/13/17](https://www.cncf.io/blog/2017/09/13/cncf-hosts-jaeger/)|Incubating
 [Notary](https://github.com/docker/notary)|Solomon Hykes|[6/20/17](https://goo.gl/6nmyDn)|[10/24/17](https://www.cncf.io/announcement/2017/10/24/cncf-host-two-security-projects-notary-tuf-specification/)|Incubating
 [TUF](https://github.com/theupdateframework)|Solomon Hykes|[6/20/17](https://goo.gl/6nmyDn)|[10/24/17](https://www.cncf.io/announcement/2017/10/24/cncf-host-two-security-projects-notary-tuf-specification/)|Incubating
-[rook](https://github.com/rook)|Ben Hindman|[6/6/17](https://goo.gl/6nmyDn)|[1/29/18](https://www.cncf.io/blog/2018/01/29/cncf-host-rook-project-cloud-native-storage-capabilities)|Sandbox
+[rook](https://github.com/rook)|Ben Hindman|[6/6/17](https://goo.gl/6nmyDn)|[1/29/18](https://www.cncf.io/blog/2018/01/29/cncf-host-rook-project-cloud-native-storage-capabilities)|Incubating
 [Vitess](https://github.com/vitessio/vitess)|Brian Grant|[4/19/17](https://goo.gl/6nmyDn)|[2/5/18](https://www.cncf.io/blog/2018/02/05/cncf-host-vitess/)|Incubating
 [NATS](https://github.com/nats-io/gnatsd)|Alexis Richardson|[9/21/16](https://goo.gl/6nmyDn)|[3/15/18](https://www.cncf.io/blog/2018/03/15/cncf-to-host-nats/)|Incubating
 [SPIFFE](https://github.com/spiffe)|Brian Grant, Sam Lambert, Ken Owens|[11/7/17](https://goo.gl/6nmyDn)|[3/29/18](https://www.cncf.io/blog/2018/03/29/cncf-to-host-the-spiffe-project/)|Sandbox
@@ -91,8 +95,15 @@ Here is a link to a World Time Zone Converter here http://www.thetimezoneconvert
 [CloudEvents](https://github.com/cloudevents)|Brian Grant, Ken Owens|[11/14/17](https://goo.gl/vKbawR)|[5/22/18](https://www.cncf.io/blog/2018/05/22/cloudevents-in-the-sandbox/)|Sandbox
 [Telepresence](https://github.com/telepresenceio)|Alexis Richardson, Camille Fournier|[4/17/18](https://docs.google.com/presentation/d/1VrHKGre5Y8AbmXEOXu4VPfILReoLT38Uw9TMN71u08E/edit?usp=sharing)|[5/22/18](https://www.cncf.io/blog/2018/05/22/telepresence-in-the-sandbox/)|Sandbox
 [Helm](https://github.com/helm)|Brian Grant|[5/15/18](https://docs.google.com/presentation/d/1KNSv70fyTfSqUerCnccV7eEC_ynhLsm9A_kjnlmU_t0/edit#slide=id.g25ca91f87f_0_0)|[6/1/18](https://www.cncf.io/blog/2018/06/01/cncf-to-host-helm/)|Incubating
-[Harbor](https://github.com/goharbor)|Quinton Hoole, Ken Owens|[6/19/18](https://docs.google.com/presentation/d/1KNSv70fyTfSqUerCnccV7eEC_ynhLsm9A_kjnlmU_t0/edit#slide=id.g25ca91f87f_0_0)|[7/31/18](https://www.cncf.io/blog/2018/07/31/cncf-to-host-harbor-in-the-sandbox/)|Sandbox
+[Harbor](https://github.com/goharbor)|Quinton Hoole, Ken Owens|[6/19/18](https://docs.google.com/presentation/d/1KNSv70fyTfSqUerCnccV7eEC_ynhLsm9A_kjnlmU_t0/edit#slide=id.g25ca91f87f_0_0)|[7/31/18](https://www.cncf.io/blog/2018/07/31/cncf-to-host-harbor-in-the-sandbox/)|Incubating
 [OpenMetrics](https://github.com/OpenObservability/OpenMetrics)|Alexis Richardson, Bryan Cantrill|[6/20/17](https://goo.gl/6nmyDn)|[8/10/18](https://www.cncf.io/blog/2018/08/10/cncf-to-host-openmetrics/)|Sandbox
+[TiKV](https://github.com/tikv/tikv)|Ben Hindman, Bryan Cantrill|[7/3/18](https://docs.google.com/presentation/d/1864TEfbwCpbW5kPYGQNAfqAUdc3X83n-_OYigqxfohw/edit?usp=sharing)|[8/28/18](https://www.cncf.io/blog/2018/08/28/cncf-to-host-tikv/)|Sandbox
+[Cortex](https://github.com/cortexproject/cortex)|Ken Owens, Bryan Cantrill|[6/5/18](https://docs.google.com/presentation/d/190oIFgujktVYxWZLhLYN4q8p9dtQYoe4sxHgn4deBSI/edit#slide=id.g25ca91f87f_0_0)|[9/20/18](https://www.cncf.io/blog/2018/09/20/cncf-to-host-in-the-sandbox/)|Sandbox
+[Buildpacks](https://github.com/buildpack/spec)|Brian Grant, Alexis Richardson|[8/21/18](https://docs.google.com/presentation/d/1RkygwZw7ILVgGhBpKnFNgJ4BCc_9qMG8cIf0MRbuzB4/edit?usp=sharing)|[10/3/18](https://www.cncf.io/blog/2018/10/03/cncf-to-host-cloud-native-buildpacks-in-the-sandbox)|Sandbox
+[Falco](https://github.com/falcosecurity/falco)|Brian Grant, Quinton Hoole|[7/17/18](https://docs.google.com/presentation/d/17p5QBVooGMLAtX6Mn6d3NAFhRmFHE0cH-WI_-0MbOm8/edit?usp=sharing)|[10/10/18](https://falco.org/)|Sandbox
+[Dragonfly](https://github.com/dragonflyoss/dragonfly)|Jonathan Boulle, Benjamin Hindman|[9/4/18](https://docs.google.com/presentation/d/1umu-iT5ZXq5XsMFmqmVeRe-tn2y7DeSoCebhrehi7fk/edit#slide=id.g41381b8fd7_0_199)|[11/15/18](https://github.com/oss/dragonfly)|Sandbox
+[Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet)|Alexis Richardson, Quinton Hoole|[9/18/18](https://github.com/cncf/toc/issues/154)|[12/4/18](https://github.com/virtual-kubelet/virtual-kubelet)|Sandbox
+[etcd](https://github.com/etcd-io/etcd)|Brian Grant|[8/7/18](https://github.com/cncf/toc/pull/143)|[12/11/18](https://www.cncf.io/blog/2018/12/11/cncf-to-host-etcd)|Incubating
 
 ## Website Guidelines
 
@@ -100,7 +111,7 @@ CNCF has the following [guidelines](https://www.cncf.io/projects/website-guideli
 
 ## Scheduled Community Presentations
 
-If you're interested in presenting at a TOC call about your project, please open a [github issue](https://github.com/cncf/toc/issues) with the request. We can schedule a maximum of two community presentations per TOC meeting.
+If you're interested in presenting at a TOC call about your project, please open a [github issue](https://github.com/cncf/toc/issues) with the request. We can schedule a maximum of one community presentation per TOC meeting.
 
 * **May 4th, 2016**: [Prometheus](https://prometheus.io/) ([overview](https://docs.google.com/presentation/d/1GtVX-ppI95LhrijprGENsrpq78-I1ttcSWLzMVk5d8M/edit?usp=sharing)): Fabian Reinartz, Julius Volz
 * **August 3rd, 2016**: [Fluentd](http://www.fluentd.org/) ([overview](https://docs.google.com/presentation/d/1S79MNv3E2aG8nuZJFJ0XMSumf7jnKozN3vdrivCH77U/edit?usp=sharing)): Kiyoto Tamura / [Heron](https://github.com/twitter/heron) ([overview](https://docs.google.com/presentation/d/1pKwNO2V3VScjD1JxJ0gEgFTwAOccJgaJxHWgwcyczec/edit?usp=sharing)): Karthik Ramasamy / [Minio](https://minio.io/) ([overview](https://docs.google.com/presentation/d/1DGm_Zwq7qYHaXm6ZH26RAQeyBAKF1FOCLlEZQNTMJYE/edit?usp=sharing)): Anand Babu Periasamy
@@ -150,8 +161,8 @@ If you're interested in presenting at a TOC call about your project, please open
 * **Sep 4, 2018**: OpenMessaging/Dragonfly
 * **Sep 18, 2018**: netdata
 * **Oct 2, 2018**: keycloak
+* **Nov 20, 2018**: Graduation/Project Reviews
 * **Oct 16, 2018**: (interested presenters contact cra@linuxfoundation.org or open up a github [issue](https://github.com/cncf/toc/issues))
-* **Nov 6, 2018**: (interested presenters contact cra@linuxfoundation.org or open up a github [issue](https://github.com/cncf/toc/issues))
 
 ## Meeting Minutes
 
@@ -213,3 +224,9 @@ If you're interested in presenting at a TOC call about your project, please open
 * [July 17th, 2018](https://docs.google.com/presentation/d/17p5QBVooGMLAtX6Mn6d3NAFhRmFHE0cH-WI_-0MbOm8/edit?usp=sharing)
 * [August 7th, 2018](https://docs.google.com/presentation/d/1Eebd5ZwSYyvNRLbHDpiF_USDC4sEz7lEEpPLju_0PaU/edit)
 * [August 21st, 2018](https://docs.google.com/presentation/d/1RkygwZw7ILVgGhBpKnFNgJ4BCc_9qMG8cIf0MRbuzB4/edit?usp=sharing)
+* [September 4th, 2018](https://docs.google.com/presentation/d/1umu-iT5ZXq5XsMFmqmVeRe-tn2y7DeSoCebhrehi7fk/edit#slide=id.g41381b8fd7_0_199)
+* [September 18th, 2018](https://docs.google.com/presentation/d/1umu-iT5ZXq5XsMFmqmVeRe-tn2y7DeSoCebhrehi7fk/edit#slide=id.g41381b8fd7_0_199)
+* [October 2nd, 2018](https://docs.google.com/presentation/d/1Xt1xNSN8_pGuDLl5H8xEYToFss7VoIm7GBG0e_HrsLc/edit?usp=sharing)
+* [October 16th, 2018](https://docs.google.com/presentation/d/1UtObz-sbjJqtfoVxlfsl2YlalnZnWQQyH8wloDcRyXk/edit#slide=id.g25ca91f87f_0_0)
+* [November 20th, 2018](https://docs.google.com/presentation/d/1mf7_KX_EVTUf6QhGLNBKRvMRQMgOU7aK6CFhhYByg-0/edit)
+* [December 4th, 2018](https://docs.google.com/presentation/d/1QUUpTnpnxBBmsuPKb0lRYLiP8G5H4sSlEaGK70XgBrE/edit#slide=id.g25ca91f87f_0_0)
